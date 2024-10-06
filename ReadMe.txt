@@ -15,4 +15,4 @@ D: move right
 
 CTRL: pause
 
-weapon fires automatically (like Vampire Survivors), so it doesn't require any input!
+weapon fires automatically (like Vampire Survivors), so it doesn't require any input to fire!
